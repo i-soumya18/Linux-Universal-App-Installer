@@ -1,0 +1,14 @@
+389852f641afafd35bc2b03b190bca61  usr/bin/linux-app-installer
+3a3d8f1a7852c4e3f9c10cb9851dbbce  usr/bin/linux-app-installer-gui
+6aed37d74ec9da03e0045113ead87327  usr/lib/python3.10/dist-packages/__pycache__/main.cpython-310.pyc
+e889caa8493fb811d45c2ebdbadc49b4  usr/lib/python3.10/dist-packages/linux_universal_app_installer-2.0.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3.10/dist-packages/linux_universal_app_installer-2.0.0.egg-info/dependency_links.txt
+3f50a2228d8e5e2f6fd79fd6c2eb65ab  usr/lib/python3.10/dist-packages/linux_universal_app_installer-2.0.0.egg-info/entry_points.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3.10/dist-packages/linux_universal_app_installer-2.0.0.egg-info/not-zip-safe
+fe251a2683ddc832ec3f932df87943d8  usr/lib/python3.10/dist-packages/linux_universal_app_installer-2.0.0.egg-info/requires.txt
+7c897c2167f77748644493434066ae04  usr/lib/python3.10/dist-packages/linux_universal_app_installer-2.0.0.egg-info/top_level.txt
+546ee34caa654338585438ef3795b050  usr/lib/python3.10/dist-packages/main.py
+8d2890bf713c2bdad943eb574194a531  usr/share/applications/linux-app-installer.desktop
+5ad68c1f2e5d330c93fca43bd88288d7  usr/share/doc/linux-universal-app-installer/changelog.Debian.gz
+a07943f317368147021d06c2bf89797b  usr/share/doc/linux-universal-app-installer/copyright
+c134bb6a57e3c589628fa3e3d80fca11  usr/share/icons/hicolor/scalable/apps/linux-app-installer.svg

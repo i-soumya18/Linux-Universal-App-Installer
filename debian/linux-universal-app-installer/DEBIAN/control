@@ -1,0 +1,14 @@
+Package: linux-universal-app-installer
+Version: 2.0.0-1
+Architecture: all
+Maintainer: Linux Universal App Installer Team <installer@example.com>
+Installed-Size: 151
+Depends: python3-pyqt5 (>= 5.15.0), python3 (>= 3.8), python3-setuptools
+Section: utils
+Priority: optional
+Homepage: https://github.com/linux-app-installer/linux-universal-app-installer
+Description: Professional drag-and-drop application installer for Linux
+ A comprehensive application installer that supports multiple package formats
+ including .deb, .appimage, .tar.gz, .snap, and .flatpak files. Features a
+ modern GUI with drag-and-drop functionality, batch installation, and
+ professional desktop integration similar to Windows installers.

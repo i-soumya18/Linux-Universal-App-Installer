@@ -1,0 +1,6 @@
+include *.desktop
+include *.svg
+include *.png
+include README.md
+include LICENSE
+recursive-include debian *

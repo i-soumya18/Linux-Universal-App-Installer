@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ --with python3 --buildsystem=pybuild
+
+override_dh_auto_install:
+	dh_auto_install
+	# Install desktop file
+	install -D -m 644 linux-app-installer.desktop $(CURDIR)/debian/linux-universal-app-installer/usr/share/applications/linux-app-installer.desktop
+	# Install icon
+	install -D -m 644 linux-app-installer.svg $(CURDIR)/debian/linux-universal-app-installer/usr/share/icons/hicolor/scalable/apps/linux-app-installer.svg

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Linux Universal App Installer
+Comment=A professional drag-and-drop application installer for Linux
+Exec=linux-app-installer
+Icon=linux-app-installer
+Terminal=false
+StartupWMClass=LinuxAppInstaller
+Categories=Utility;System;PackageManager;
+Keywords=installer;appimage;deb;snap;flatpak;application;linux;
+MimeType=application/x-deb;application/x-appimage;application/x-tar;application/x-snap;application/x-flatpak;
