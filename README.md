@@ -1,6 +1,6 @@
 # Linux Universal App Installer v2.0
 
-A professional, enterprise-grade drag-and-drop application installer for Linux that supports multiple package formats with macOS-level elegance, comprehensive error handling, and advanced features suitable for selection as Linux's default installer.
+A professional, enterprise-grade drag-and-drop application installer for Linux that supports multiple package formats, comprehensive error handling, and advanced features suitable for selection as Linux's default installer.
 
 ## Supported Formats
 - .deb (Debian packages) - Requires dpkg and apt
